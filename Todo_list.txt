@@ -3,3 +3,6 @@
 3. Learn Appium
 4. Complete the Rest assured concepts asap
 5. Get to know more about the Performance testing tools
+6. Learn more about selenium 4
+7. Revise the concepts of cucumber
+8. What is protractor? selenium grid?
