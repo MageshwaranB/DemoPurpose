@@ -1,0 +1,5 @@
+1. Learn newer Java concepts till JDK 15
+2. Learn basics of JS 
+3. Learn Appium
+4. Complete the Rest assured concepts asap
+5. Get to know more about the Performance testing tools
